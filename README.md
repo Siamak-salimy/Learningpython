@@ -7,7 +7,7 @@ Python—the popular and highly-readable object-oriented language—is both powe
 
 ## Installing
 1. To use these exercise files, you must have the following installed:
-	- The latest version of Python, at least version 3.9 but preferably 3.10
+	- The latest version of Python, at least version 3.9 but preferably 3.10</br>
     - A text editor such as Atom, Visual Studio Code, or another editor
 2. Clone this repository into your local machine using the terminal (Mac), CMD or PowerShell (Windows), or a GUI tool like SourceTree. 
     - You can also just download a ZIP file from Github and extract the contents to your machine.

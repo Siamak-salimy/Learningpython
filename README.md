@@ -17,8 +17,7 @@ Python—the popular and highly-readable object-oriented language—is both powe
 Joe Marini 
                             
 Senior Director of Product and Engineering
-
-                           
+                          
 
 Check out my other courses on [LinkedIn Learning](https://www.linkedin.com/learning/instructors/joe-marini).
 

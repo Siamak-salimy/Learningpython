@@ -11,7 +11,6 @@ Python—the popular and highly-readable object-oriented language—is both powe
     - You can also just download a ZIP file from Github and extract the contents to your machine.
 3. Place the examples folder on your computer where they are easy to get to
 
-
 ### Instructor
 
 Joe Marini 
